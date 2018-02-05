@@ -1,6 +1,6 @@
 # Innovation
 
-## Computing Innovation:
+## Computing Innovation: [TITLE]
 - effect as a benefit
 - effect as harmful
 - justification to the effect
