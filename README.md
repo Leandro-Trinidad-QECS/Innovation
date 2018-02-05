@@ -1,6 +1,6 @@
 # Innovation
 
-## Computing Innovation: [TITLE]
+## Computing Innovation: How a computer uses the Camera Image Sensor to take information to create an image.
 - effect as a benefit
 - effect as harmful
 - justification to the effect
